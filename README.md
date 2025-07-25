@@ -35,13 +35,13 @@ While no definitive records of the discovery process survive, this paper consoli
 
 ## 📘 Suggested Citation
 
-> Chong, S. (2025). *Rediscovering the Euclidean Algorithm: From Embodied Group-Splitting to Abstract Recursion*. GitHub Repository. https://github.com/[your-username]/euclidean-algorithm-origin
+> Chong, S. (2025). *Rediscovering the Euclidean Algorithm: From Embodied Group-Splitting to Abstract Recursion*. GitHub Repository. https://github.com/chevestong/rediscovering-euclidean-algorithm
 
 *(This is an informal citation; arXiv or DOI links may be added in the future.)*
 
 ## 🤝 Feedback and Contributions
 
-This is an evolving exploration. If you are a teacher, researcher, or student with comments, questions, or suggestions for revision—or if you'd like to collaborate on improving or extending the model—please feel free to [open an issue](https://github.com/[your-username]/euclidean-algorithm-origin/issues) or start a discussion.
+This is an evolving exploration. If you are a teacher, researcher, or student with comments, questions, or suggestions for revision—or if you'd like to collaborate on improving or extending the model—please feel free to [open an issue](https://github.com/chevestong/rediscovering-euclidean-algorithm/issues) or start a discussion.
 
 ## 🔖 License
 
