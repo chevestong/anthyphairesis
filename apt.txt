@@ -1,4 +1,0 @@
-libpango1.0-dev
-libcairo2-dev
-pkg-config
-ffmpeg
