@@ -13,9 +13,8 @@ It blends cognitive plausibility with historical context and mathematical struct
 
 ## 📂 Contents
 
-- `euclidean_algorithm.tex` — Full LaTeX source code  
-- `euclidean_algorithm.pdf` — Compiled PDF of the article  
-- `figures/` — (optional) Folder for images or external TikZ if separated  
+- `rediscovering_the_euclidean_algorithm.tex` — Full LaTeX source code  
+- `rediscovering_the_euclidean_algorithm.pdf` — Compiled PDF of the article  
 - `README.md` — This file
 
 ## 📌 Motivation
@@ -31,7 +30,7 @@ While no definitive records of the discovery process survive, this paper consoli
 - Historians of mathematics interested in cognitive or material origins  
 - Educators exploring intuitive ways to introduce GCD and division  
 - Mathematically curious readers who enjoy visual and tactile reasoning  
-- Anyone curious about how ancient algorithms may have emerged from humble beginnings
+- Anyone who, like me, is curious about how ancient algorithms may have emerged from humble beginnings
 
 ## 📘 Suggested Citation
 
@@ -49,4 +48,4 @@ This work is shared under the [Creative Commons Attribution-NonCommercial-ShareA
 
 ---
 
-*This project is part of an ongoing interest in the history of mathematics, the emergence of formal systems, and the embodied cognition underlying early discovery.*  
+*This project is part of an ongoing personal interest in the history of mathematics, the emergence of formal systems, and the embodied cognition underlying early discovery.*  
