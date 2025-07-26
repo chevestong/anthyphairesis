@@ -1,6 +1,8 @@
 # Rediscovering the Euclidean Algorithm  
 *A Cognitive and Material Pathway to Recursive Division*
 
+This project explores the cognitive origins of the Euclidean algorithm, tracing its development from embodied group-splitting to recursive abstraction. It is intended for students, educators, and researchers in mathematics education, history of math, and cognitive science.
+
 This repository contains the full LaTeX source and compiled PDF of an exploratory paper by Stephen Chong titled:
 
 **“Rediscovering the Euclidean Algorithm: From Embodied Group-Splitting to Abstract Recursion”**
