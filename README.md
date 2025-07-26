@@ -46,6 +46,8 @@ This is an evolving exploration. If you are a teacher, researcher, or student wi
 
 This work is shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+Please [contact the author](mailto:prosteve037@gmail.com) before citing or referencing this work in a formal publication. Informal discussion and personal sharing are welcome.
+
 ---
 
 *This project is part of an ongoing personal interest in the history of mathematics, the emergence of formal systems, and the embodied cognition underlying early discovery.*  
