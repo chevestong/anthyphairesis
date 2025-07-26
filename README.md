@@ -46,7 +46,7 @@ This is an evolving exploration. If you are a teacher, researcher, or student wi
 
 This work is shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Please [contact the author](mailto:prosteve037@gmail.com) before citing or referencing this work in a formal publication. Informal discussion and personal sharing are welcome.
+Please <a href="mailto:&#112;&#114;&#111;&#115;&#116;&#101;&#118;&#101;&#048;&#051;&#055;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">contact the author</a> before citing or referencing this work in a formal publication. Informal discussion and personal sharing are welcome.
 
 ---
 
